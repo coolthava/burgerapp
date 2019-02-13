@@ -6,7 +6,7 @@ Start by cloning into chosen directory and using the default branch (master). <b
 
 Then run 
 
-### 'npm install'
+### `npm install`
 
 In the project directory, you can run :
 
